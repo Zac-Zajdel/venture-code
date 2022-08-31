@@ -38,7 +38,7 @@
     "seed": "ts-node --compiler-options {\"module\":\"CommonJS\"} prisma/seed.ts"
   },
   "dependencies": {
-    "@prisma/client": "^3.11.0",
+    "@prisma/client": "^4.3.0",
     "autoprefixer": "^10.4.4",
     "next": "^12.1.0",
     "next-pwa": "^5.4.6",
